@@ -13,3 +13,4 @@ Write a script that lists all files
 Create a script that copies all the HTML files from the current working directory to the parent of the working directory
 Creating a symbolic link
 Moves all files beginning with an uppercase letter
+Creating directories in the current directory
