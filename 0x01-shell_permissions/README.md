@@ -13,3 +13,7 @@
 (11) Script that adds execute permission to all subdirectories of the current directory
 (12) Script that create directory with permission 751
 (13) Changes group owner to school
+(14) Script that changes the owner to vincent and the group owner to staff for all the files and directories
+(15) Script that changes the owner and the group owner of _hello to vincent and staff
+(16) Script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+(17) Script that will plas StarWars IV episode in the terminal
