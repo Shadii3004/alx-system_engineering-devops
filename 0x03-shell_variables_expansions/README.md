@@ -6,3 +6,4 @@
 (6) This script displays the lists of all local variables and environment variables, and functions
 (7) This script create new local variable
 (7) This script creat a global variable
+(8) This script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
